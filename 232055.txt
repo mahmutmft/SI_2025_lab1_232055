@@ -1,0 +1,24 @@
+git checkout 1-remove-a-task-by-name
+git add SI2025Lab1Main.java
+git commit -m "feat: add remove task by name"
+git push origin master
+git checkout 2-find-all-completed-tasks
+git add SI2025Lab1Main.java
+git commit -m "feat: add find all completed tasks"
+git push origin
+git checkout 3-list-tasks-sorted-by-name
+git add SI2025Lab1Main.java
+git commit -m "feat: add list task sorted by name"
+git push origin
+git checkout master
+git fetch origin
+git reset --hard origin/master
+git merger 1-remove-a-task-by-name
+git push origin master
+touch logs.txt
+git log --oneline --graph --all >> logs.txt
+touch 232055.txt
+git add .
+git commit -m "Final commit"
+git push origin master
+

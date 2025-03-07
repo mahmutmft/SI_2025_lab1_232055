@@ -1,0 +1,30 @@
+*   80883ae Merge branch '1-remove-a-task-by-name'
+|\  
+| * 5093b08 feat: add remove task by name
+* |   1647cc0 Merge pull request #6 from mahmutmft/3-list-tasks-sorted-by-name
+|\ \  
+| * | adabdd9 feat: add list task sorted by name
+| |/  
+* |   aeaad0b Merge pull request #5 from mahmutmft/2-find-all-completed-tasks
+|\ \  
+| |/  
+|/|   
+| * 0f7cfc8 feat: add find all completed tasks
+|/  
+* 1ed685a Add starter code
+* 9483bc3 Initial commit
+*   80883ae Merge branch '1-remove-a-task-by-name'
+|\  
+| * 5093b08 feat: add remove task by name
+* |   1647cc0 Merge pull request #6 from mahmutmft/3-list-tasks-sorted-by-name
+|\ \  
+| * | adabdd9 feat: add list task sorted by name
+| |/  
+* |   aeaad0b Merge pull request #5 from mahmutmft/2-find-all-completed-tasks
+|\ \  
+| |/  
+|/|   
+| * 0f7cfc8 feat: add find all completed tasks
+|/  
+* 1ed685a Add starter code
+* 9483bc3 Initial commit
